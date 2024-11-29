@@ -100,15 +100,15 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "institution": "Santa Joaquina de Vedruna",
+    "url": "https://vedrunasevilla.org/",
+    "area": "DAM",
+    "studyType": "High",
+    "startDate": "2023",
+    "endDate": "2025",
+    "score": "10.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      "DAM"
     ]
   }],
   "awards": [{
