@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Jesús Aguado Fernández",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
+    "name": "Jesús Aguado",
+    "label": "Multiplatform developer and musician",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
+    "email": "jesus.aguado@a.vedrunasevillasj.es",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "I am a highly motivated application developer specialized in Java, looking for an opportunity where I can apply my knowledge and creativity in a comfortable and innovative environment.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": " ",
+      "postalCode": "41300",
+      "city": "Sevilla",
       "countryCode": "ES",
       "region": "Spain"
     },
