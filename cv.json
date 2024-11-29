@@ -78,10 +78,10 @@
       ]
     },
     {
-      "name": "Alejandro Téllez",
-      "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "name": "Jose Luis",
+      "type": "Academic Reference",
+      "url": "",
+      "position": "Piano Teacher",
       "contact": [
         "Phone: +34611223344",
         "Email: Va5q8@example.com"
@@ -89,12 +89,12 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
     "highlights": [
       "Awarded 'Volunteer of the Month'"
     ]
