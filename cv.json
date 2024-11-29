@@ -146,8 +146,29 @@
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "MySQL",
       "level": "Medium",
+      "keywords": [
+        "Bases de Datos", "SQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Medium",
+      "keywords": [
+        "Version control", "Colaboración", "Source code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Medium",
+      "keywords": [
+        "Version control", "Collaboration", "Source code", "Git"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
       "keywords": [
         "Web development", "Frontend", "Backend", "Fullstack"
       ]
@@ -171,27 +192,6 @@
       "level": "",
       "keywords": [
         "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Medium",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Medium",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Medium",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
       ]
     },
     {
