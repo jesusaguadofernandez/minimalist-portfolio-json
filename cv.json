@@ -8,7 +8,7 @@
     "url": " ",
     "summary": "I am a highly motivated application developer specialized in Java, looking for an opportunity where I can apply my knowledge and creativity in a comfortable and innovative environment.",
     "location": {
-      "address": "",
+      "address": " ",
       "postalCode": "41300",
       "city": "Sevilla",
       "countryCode": "ES",
@@ -45,24 +45,24 @@
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
+      "name": "NightClubs",
+      "position": "Restocking",
+      "url": " ",
+      "startDate": " ",
+      "endDate": " ",
       "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
       "highlights": [
-        "Started the company"
+        " "
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": " ",
+      "position": " ",
+      "startDate": " ",
+      "endDate": " ",
+      "summary": " ",
       "highlights": [
-        "Started the company"
+        " "
       ]
     }
   ],
