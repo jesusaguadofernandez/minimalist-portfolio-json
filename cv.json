@@ -17,18 +17,18 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Jesús Aguado Fernández",
+        "url": "https://www.linkedin.com/in/jes%C3%BAs-aguado-fern%C3%A1ndez-a0b85130b/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "jesus",
+        "url": "https://x.com"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "jesusaguado",
+        "url": "https://github.com/jesusaguadofernandez"      
       }
     ]
   },
