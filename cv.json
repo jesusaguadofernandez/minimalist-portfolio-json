@@ -68,20 +68,20 @@
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "name": "Jaime García Sánchez",
+      "type": "Profesional Reference",
+      "url": " ",
+      "position": "Barman at Paticuelo´s",
       "contact": [
         "Phone: +34611223345",
         "Email: VY5q8@example.com"
       ]
     },
     {
-      "name": "Alejandro Téllez",
-      "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "name": "Jose Luis",
+      "type": "Academic Reference",
+      "url": " ",
+      "position": "Piano Teacher",
       "contact": [
         "Phone: +34611223344",
         "Email: Va5q8@example.com"
@@ -89,46 +89,46 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": " ",
+    "position": " ",
+    "url": " ",
+    "startDate": " ",
+    "endDate": " ",
+    "summary": " ",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      " "
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "institution": "Santa Joaquina de Vedruna",
+    "url": "https://vedrunasevilla.org/",
+    "area": "DAM",
+    "studyType": "High",
+    "startDate": "2023",
+    "endDate": "2025",
+    "score": " ",
     "courses": [
-      "DB1101 - Basic SQL"
+      " "
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": " ",
+    "date": " ",
+    "awarder": " ",
+    "summary": " "
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": " ",
+    "date": " ",
+    "issuer": " ",
+    "url": " "
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": " ",
+    "publisher": " ",
+    "releaseDate": " ",
+    "url": " ",
+    " ": " "
   }],
   "skills": [
     {
