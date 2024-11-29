@@ -220,7 +220,7 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Music",
     "keywords": [
       "Ferrets",
       "Unicorns"
@@ -228,25 +228,25 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "EasyCV",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Create your CV in 5 minutes",
       "highlights": [
         "Choose your own adventure",
         "In progress"
       ],
-      "url": "https://mars.codes"
+      "url": ""
     },
     {
-      "name": "AdventJS",
+      "name": "",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "",
       "highlights": [
         "+1 million visits",
         "Multilanguage",
         "JavaScript & TypeScript"
       ],
-      "url": "https://advent.js/dev"
+      "url": ""
     },
     {
       "name": "Codember",
