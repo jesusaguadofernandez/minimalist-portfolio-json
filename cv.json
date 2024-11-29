@@ -130,22 +130,22 @@
     "url": "",
     "summary": ""
   }],
-  "skills": [
+    "skills": [
     {
       "name": "HTML",
-      "level": "Medium",
+      "level": "Master",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
-    {
+ {
       "name": "CSS",
       "level": "Medium",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
-    {
+        {
       "name": "MySQL",
       "level": "Medium",
       "keywords": [
@@ -166,6 +166,48 @@
         "Version control", "Collaboration", "Source code", "Git"
       ]
     },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Bases de Datos", "SQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Version control", "Colaboración", "Source code"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Version control", "Collaboration", "Source code", "Git"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "Web development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
   ],
   "languages": [
     {
