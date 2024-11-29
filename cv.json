@@ -166,48 +166,6 @@
         "Version control", "Collaboration", "Source code", "Git"
       ]
     },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    }
   ],
   "languages": [
     {
@@ -225,7 +183,8 @@
       "Ferrets",
       "Unicorns"
     ]
-  }],
+  }
+  ],
   "projects": [
     {
       "name": "EasyCV",
