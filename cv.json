@@ -34,54 +34,54 @@
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Paticuelo´s Bar",
+      "position": "Waiter",
+      "url": " ",
+      "startDate": "2024-08-1",
+      "endDate": "2024-09-1",
+      "summary": "I worked as a waiter in a small-town bar during August 2024, coinciding with the town's festival dates.",
       "highlights": [
-        "Started the company"
+        " "
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
+      "name": "NightClubs",
+      "position": "Restocking",
+      "url": " ",
+      "startDate": " ",
+      "endDate": " ",
       "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
       "highlights": [
-        "Started the company"
+        " "
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": " ",
+      "position": " ",
+      "startDate": " ",
+      "endDate": " ",
+      "summary": " ",
       "highlights": [
-        "Started the company"
+        " "
       ]
     }
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
+      "name": "Jaime García Sánchez",
+      "type": "Profesional Reference",
+      "url": " ",
+      "position": "Barman at Paticuelo´s",
       "contact": [
         "Phone: +34611223345",
         "Email: VY5q8@example.com"
       ]
     },
     {
-      "name": "Alejandro Téllez",
-      "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "name": "Jose Luis",
+      "type": "Academic Reference",
+      "url": " ",
+      "position": "Piano Teacher",
       "contact": [
         "Phone: +34611223344",
         "Email: Va5q8@example.com"
@@ -89,123 +89,123 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": " ",
+    "position": " ",
+    "url": " ",
+    "startDate": " ",
+    "endDate": " ",
+    "summary": " ",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      " "
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "institution": "Santa Joaquina de Vedruna",
+    "url": "https://vedrunasevilla.org/",
+    "area": "DAM",
+    "studyType": "High",
+    "startDate": "2023",
+    "endDate": "2025",
+    "score": " ",
     "courses": [
-      "DB1101 - Basic SQL"
+      " "
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": " ",
+    "date": " ",
+    "awarder": " ",
+    "summary": " "
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": " ",
+    "date": " ",
+    "issuer": " ",
+    "url": " "
   }],
   "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
+    "name": " ",
+    "publisher": " ",
+    "releaseDate": " ",
+    "url": " ",
+    " ": " "
   }],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend"
+        "Web development", " "
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
+        "Web development", " ", " "
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
+      "name": "Java",
+      "level": "Medium",
       "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
+        "App development", " ", "Backend", " "
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Advanced",
+      "name": " ",
+      "level": " ",
       "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
+        " ", " ", " ", " "
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
+      "name": " ",
+      "level": " ",
       "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
+        " ", " ", " ", " "
       ]
     },
     {
-      "name": "Node",
-      "level": "Advanced",
+      "name": " ",
+      "level": " ",
       "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
+        "  ", " ", " ", " "
       ]
     },
     {
       "name": "MySQL",
-      "level": "Advanced",
+      "level": "Medium",
       "keywords": [
         "Bases de Datos", "SQL", "Database", "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Advanced",
+      "level": "Low",
       "keywords": [
         "Version control", "Colaboración", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
+      "level": "Medium",
       "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
+        " ", " ", " ", " "
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
+      "name": " ",
+      "level": " ",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        " ", " ", " ", " ", " "
       ]
     },
     {
-      "name": "React",
-      "level": "Advanced",
+      "name": " ",
+      "level": " ",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        " ", " ", " ", " "
       ]
     }
   ],
@@ -220,74 +220,74 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": " ",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      " ",
+      " "
     ]
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": " ",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": " ",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        " ",
+        " "
       ],
-      "url": "https://mars.codes"
+      "url": " "
     },
     {
-      "name": "AdventJS",
+      "name": " ",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": " ",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        " ",
+        " ",
+        " "
       ],
-      "url": "https://advent.js/dev"
+      "url": " "
     },
     {
-      "name": "Codember",
+      "name": " ",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "description": " ",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        " ",
+        " "
       ],
-      "url": "https://codember.dev"
+      "url": " "
     },
     {
-      "name": "codi.link",
+      "name": " ",
       "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "description": " ",
       "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
+        " ",
+        " "
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": " ",
+      "github": " "
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": " ",
       "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
+      "description": " ",
       "highlights": [
-        "100% free",
-        "+500 community solutions"
+        " ",
+        " "
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": " ",
+      "github": " "
     },
     {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "name": " ",
+      "description": " ",
       "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
+        " ",
+        " "
       ],
-      "url": "https://miduconf.com"
+      "url": " ",
     }
   ]
 }
